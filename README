@@ -1,0 +1,6 @@
+To run test_chess.py, right click on test_chess.py on the top bar of tabs and then click 'run'
+- test_chess.py requires that you setup two players, where one of each of the players must be a MinimaxAI object, an
+AlphaBetaAI object, or an Iterative_DeepeningAI object.
+- Each object takes the maximum depth of the search, and which player will be maximizing (True or False)
+- Each of these algorithms can be paired against a RandomAI player
+that comes with the RandomAI python module
